@@ -2,4 +2,4 @@
 
 Este é o meu primeiro repositório GIT
 
-Mudança na branch teste de conflito
+Mudança na mesma linha com informação distinta
